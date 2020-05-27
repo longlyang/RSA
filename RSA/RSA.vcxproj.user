@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>-p C:\Users\long\source\repos\RSA\RSA\rsa_plain.txt -n C:\Users\long\source\repos\RSA\RSA\nfile.txt -e C:\Users\long\source\repos\RSA\RSA\efile.txt -d C:\Users\long\source\repos\RSA\RSA\dfile.txt -c C:\Users\long\source\repos\RSA\RSA\rsa_cipher.txt -s C:\Users\long\source\repos\RSA\RSA\rsa_sign.txt -P C:\Users\long\source\repos\RSA\RSA\pfile.txt -Q C:\Users\long\source\repos\RSA\RSA\qfile.txt</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>-p C:\Users\long\source\repos\RSA\RSA\rsa_plain.txt -n C:\Users\long\source\repos\RSA\RSA\nfile.txt -e C:\Users\long\source\repos\RSA\RSA\efile.txt -d C:\Users\long\source\repos\RSA\RSA\dfile.txt -c C:\Users\long\source\repos\RSA\RSA\rsa_cipher.txt -s C:\Users\long\source\repos\RSA\RSA\rsa_sign.txt -P C:\Users\long\source\repos\RSA\RSA\pfile.txt -Q C:\Users\long\source\repos\RSA\RSA\qfile.txt</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
